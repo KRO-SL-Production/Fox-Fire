@@ -5,22 +5,11 @@
     "gulp-zip": "^4.0.0",
     "cross-spawn": "^5.1.0"
   },
-  "name": "dragon-eyes",
   "version": "1.0.0",
-  "description": "=[K.R.O]= DRAGON EYES for Kemono/M3A/M3V Head",
-  "main": "gulpfile.js",
+  "description": "=[K.R.O]= Fox Fire",
   "scripts": {
     "save": "gulp save",
     "work": "gulp unzip"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KRO-SL-Production/DRAGON-EYES.git"
-  },
-  "author": "kro.morror@yahoo.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KRO-SL-Production/DRAGON-EYES/issues"
-  },
-  "homepage": "https://github.com/KRO-SL-Production/DRAGON-EYES#readme"
+  }
 }
+
